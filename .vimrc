@@ -1,1 +1,0 @@
-/Users/hitomisan/.vimrc
