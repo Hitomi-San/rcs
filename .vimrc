@@ -7,6 +7,9 @@ set ttymouse=xterm2
 set autoindent
 set smartindent
 
+"undo ファイル
+set undodir=~/.vimundo
+
 "カーソルライン
 set number
 set cursorline
